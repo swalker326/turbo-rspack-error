@@ -1,0 +1,16 @@
+{
+  "name": "turbo-rspack-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "turbo dev"
+  },
+  "keywords": [],
+  "packageManager": "pnpm@9.7.1",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "turbo": "^2.2.3"
+  }
+}
